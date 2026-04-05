@@ -58,20 +58,40 @@ The project is based on three main tables:
 
 \### Key Insights
 
-\- Ireland has the highest number of users in the dataset
-
-\- User activity varies between countries
-
-\- Some users are highly active with multiple sessions and events
-
-\- Login and interaction events are the most common actions
-
+- Users from Ireland showed higher average session duration compared to other countries
+- Peak activity occurs within the first weeks after user signup
+- Certain event types (e.g. clicks, views) dominate user interactions
+- Engagement varies significantly across different regions
 
 
 \### Conclusion
 
 This project demonstrates how SQL can be used to analyze user behavior and extract meaningful insights from raw data.
+Business Insights
 
+Based on SQL analysis of user activity data, several key business insights were identified:
+
+- *User Engagement Peaks Early*  
+  Most users show the highest level of activity shortly after registration. Engagement tends to decline over time, indicating the need for retention strategies.
+
+- *Country-Level Differences*  
+  Users from different countries demonstrate varying engagement patterns. For example, some regions show longer session durations and more frequent activity.
+
+- *Session Duration Trends*  
+  Active users tend to have longer session durations, suggesting a correlation between engagement and time spent on the platform.
+
+- *Event Activity Patterns*  
+  Certain event types (such as clicks and views) dominate user behavior, highlighting which features or actions are most important to users.
+
+- *Retention Opportunity*  
+  A drop in activity after initial sessions suggests an opportunity to improve user retention through notifications, personalized content, or onboarding improvements.
+
+---
+
+## Conclusion
+
+This analysis demonstrates how SQL can be used to extract meaningful insights from user activity data.  
+The findings can support data-driven decisions to improve user engagement, retention, and overall platform performance.
 
 
 \### Tools
